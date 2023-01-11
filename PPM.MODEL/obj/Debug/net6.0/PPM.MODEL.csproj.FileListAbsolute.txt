@@ -1,0 +1,12 @@
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/bin/Debug/net6.0/PPM.MODEL.deps.json
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/bin/Debug/net6.0/PPM.MODEL.dll
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/bin/Debug/net6.0/PPM.MODEL.pdb
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/obj/Debug/net6.0/PPM.MODEL.csproj.AssemblyReference.cache
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/obj/Debug/net6.0/PPM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/obj/Debug/net6.0/PPM.MODEL.AssemblyInfoInputs.cache
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/obj/Debug/net6.0/PPM.MODEL.AssemblyInfo.cs
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/obj/Debug/net6.0/PPM.MODEL.csproj.CoreCompileInputs.cache
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/obj/Debug/net6.0/PPM.MODEL.dll
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/obj/Debug/net6.0/refint/PPM.MODEL.dll
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/obj/Debug/net6.0/PPM.MODEL.pdb
+/Users/bhanuprakash/Desktop/Prolifics Project Management/PPM.MODEL/obj/Debug/net6.0/ref/PPM.MODEL.dll
